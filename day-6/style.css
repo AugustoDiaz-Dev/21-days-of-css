@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.container { 
+    background-color: orange;
+    color: #000;
+    width: 600px;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 2em;
+}
